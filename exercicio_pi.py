@@ -10,3 +10,5 @@ try:
     print(f'A área do círculo é: {area_do_circulo}')
 except ValueError:
     print("Error: Tipagem dos dados incorreta")
+else:
+    print("O programa funcionou perfeitamente")
